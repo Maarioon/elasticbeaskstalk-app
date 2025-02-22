@@ -120,6 +120,9 @@ User → Load Balancer → Elastic Beanstalk (App) → RDS (MySQL)
 ![Screenshot 2025-02-19 110227](https://github.com/user-attachments/assets/242c84a8-495c-4d63-89e7-04c68b5d883f)
 ![Screenshot 2025-02-19 101105](https://github.com/user-attachments/assets/ccc13ee3-c3d8-4e3b-9e69-874216109b02)
 ![Screenshot 2025-02-19 100459](https://github.com/user-attachments/assets/4fe45563-4896-4431-b138-55431b149853)
+
+ NOTE!!
+Make sure you install the latest maven and dependences to avoid build fails or errors
  
  ### **2. Install MySQL Client and Move Database to EC2 Instance**
 #### **Install MySQL Client on Windows**
